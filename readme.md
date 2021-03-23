@@ -5,4 +5,5 @@ I should be able to add new todo items.
 
 ### Bonus:
 
-Allow me to mark todo items as completed or not completed.
+Allow me to mark todo items as completed or not completed.  
+<!-- try adding a class that strikethru? -->
